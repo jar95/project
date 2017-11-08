@@ -76,7 +76,7 @@
 					<h2> Username Error !! </h2>
 					<div class="list-group">
   						<a href="index.php" class="list-group-item active">
-    						<p class="glyphicon glyphicon-hand-left" class="list-group-item-text">  Please, try again   or  log Up</p>
+    						<p class="glyphicon glyphicon-hand-left" class="list-group-item-text">  Please, try again</p>
 						</a>
 					</div>
 				</div>
@@ -87,7 +87,7 @@
 					<h2> Password Error !! </h2>
 					<div class="list-group">
   						<a href="index.php" class="list-group-item active">
-    						<h3 class="glyphicon glyphicon-hand-left" class="list-group-item-text">  Please, try again   or  log Up</h3>
+    						<h3 class="glyphicon glyphicon-hand-left" class="list-group-item-text">  Please, try again</h3>
 						</a>
 					</div>
 				</div>
