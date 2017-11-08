@@ -12,7 +12,7 @@
   <head>
     
     <!--  ******************************************************** Include boostrap Libraries ******************* -->
-    <title>Login Page</title>
+    <title>Sign Up</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
@@ -29,7 +29,7 @@
           <h3><span class="remark">IS218</span> C o u r s e</h3>
         </div>
         <div id="signInHeading">
-          <h2>Log up Page</h2>
+          <h2>Sign Up Page</h2>
         </div>
         <div class="buttonR">
          <a href="index.php"><span class="glyphicon glyphicon-home"></span></a>

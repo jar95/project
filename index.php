@@ -64,7 +64,7 @@
   <section id="showcase">
     <div class="container">
       <h1>IS218 class -Sign Up page</h1>
-      <p>A web page to create a new user to a sql database. To create a new account Go to Log up option and enter your new information </p>
+      <p>A web page to create a new user to a sql database. To create a new account Go to Sign Up option and enter your new information </p>
     </div>
   </section>
 
@@ -73,7 +73,7 @@
         <h3> New Users registration</h3>
         <form action="user.class.php">
           <input type="email" name="useremail" placeholder="email here">
-          <button type="submit" class="button-1">log up</button>
+          <button type="submit" class="button-1">Sign up</button>
         </form>
       </div>
   </section>
